@@ -1,7 +1,8 @@
 # TSF-Data-Science-Business-Analytics
 This repository has been made as apart of my Data Science and Business Analytics Internship with The Sparks Foundation.
 
-Task #1- Prediction using Supervised ML 
+
+**Task #1- Prediction using Supervised ML** 
 
 -Predict the percentage of marks of an student based on the number of study hours
 
@@ -19,7 +20,7 @@ Task #1- Prediction using Supervised ML
 
 
 
-Task #2- Prediction using Unsupervised ML
+**Task #2- Prediction using Unsupervised ML**
 
 -From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
