@@ -27,3 +27,14 @@ This repository has been made as apart of my Data Science and Business Analytics
 -Use R or Python or perform this task
 
 -Dataset : https://bit.ly/3kXTdox
+
+
+**Task #3- Prediction using Decision Tree Algorithm**
+
+-For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it
+graphically.
+
+-The purpose is if we feed any new data to this classifier, it would be able to
+predict the right class accordingly.
+
+-Dataset : https://bit.ly/3kXTdox
