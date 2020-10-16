@@ -12,7 +12,7 @@ This repository has been made as apart of my Data Science and Business Analytics
 
 -What will be predicted score if a student studies for 9.25 hrs/ day?
 
--Data can be found at http://bit.ly/w-data
+-Dataset : http://bit.ly/w-data
 
 
 
